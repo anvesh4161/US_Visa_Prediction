@@ -4,7 +4,9 @@ US visa approval project predicts if a person gets their visa approved by the em
 ## Git commands
 '''bash
 git add .
+
 git commit -m "update"
+
 git push origin main
 '''
 
