@@ -1,6 +1,6 @@
 # US-Visa-Approval-Prediction
 
-## Live material documents
+## Live matarials docs
 
 [link](https://docs.google.com/document/d/1UFiHnyKRqgx8Lodsvdzu58LbVjdWHNf-uab2WmhE0A4/edit?usp=sharing)
 
@@ -29,3 +29,21 @@ conda activate visa
 pip install -r requirements.txt
 ```
 
+
+## Workflow
+
+1. constant
+2. config_entity
+3. artifact_entity
+4. conponent
+5. pipeline
+6. app.py / demo.py
+
+
+### Export the  environment variable
+```bash
+
+
+export MONGODB_URL="mongodb+srv://<username>:<password>...."
+
+```
